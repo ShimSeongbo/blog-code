@@ -11,12 +11,6 @@ import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 
-/**
- * Created by jojoldu@gmail.com on 2017. 10. 26.
- * Blog : http://jojoldu.tistory.com
- * Github : https://github.com/jojoldu
- */
-
 @NoArgsConstructor
 @Getter
 @Entity
