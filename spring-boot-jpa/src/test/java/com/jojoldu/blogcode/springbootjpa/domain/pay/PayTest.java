@@ -12,11 +12,7 @@ import org.springframework.test.context.junit.jupiter.SpringExtension;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-/**
- * Created by jojoldu@gmail.com on 30/03/2021
- * Blog : http://jojoldu.tistory.com
- * Github : http://github.com/jojoldu
- */
+
 @ExtendWith(SpringExtension.class)
 @SpringBootTest
 class PayTest {

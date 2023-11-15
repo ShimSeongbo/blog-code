@@ -12,12 +12,6 @@ import java.time.LocalDate;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-/**
- * Created by jojoldu@gmail.com on 02/11/2019
- * Blog : http://jojoldu.tistory.com
- * Github : http://github.com/jojoldu
- */
-
 @ExtendWith(SpringExtension.class)
 @SpringBootTest
 @TestPropertySource(properties = "spring.jpa.properties.hibernate.default_batch_fetch_size=1000")

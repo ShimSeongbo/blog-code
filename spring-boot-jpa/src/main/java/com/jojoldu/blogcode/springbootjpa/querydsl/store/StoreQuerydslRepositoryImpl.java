@@ -9,11 +9,6 @@ import java.util.List;
 import static com.jojoldu.blogcode.springbootjpa.domain.store.QStore.store;
 
 
-/**
- * Created by jojoldu@gmail.com on 03/11/2019
- * Blog : http://jojoldu.tistory.com
- * Github : http://github.com/jojoldu
- */
 @RequiredArgsConstructor
 public class StoreQuerydslRepositoryImpl implements StoreQuerydslRepositoryCustom {
     private final JPAQueryFactory queryFactory;

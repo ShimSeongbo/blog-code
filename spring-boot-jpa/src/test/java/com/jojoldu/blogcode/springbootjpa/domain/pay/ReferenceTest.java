@@ -6,11 +6,7 @@ import org.mockito.junit.jupiter.MockitoExtension;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-/**
- * Created by jojoldu@gmail.com on 02/04/2021
- * Blog : http://jojoldu.tistory.com
- * Github : http://github.com/jojoldu
- */
+
 @ExtendWith(MockitoExtension.class)
 public class ReferenceTest {
 

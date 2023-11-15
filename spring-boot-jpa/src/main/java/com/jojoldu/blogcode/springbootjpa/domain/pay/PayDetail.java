@@ -1,10 +1,5 @@
 package com.jojoldu.blogcode.springbootjpa.domain.pay;
 
-/**
- * Created by jojoldu@gmail.com on 30/03/2021
- * Blog : http://jojoldu.tistory.com
- * Github : http://github.com/jojoldu
- */
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

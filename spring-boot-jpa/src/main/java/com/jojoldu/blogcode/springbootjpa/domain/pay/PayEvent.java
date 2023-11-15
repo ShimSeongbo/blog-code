@@ -5,12 +5,6 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
-
-/**
- * Created by jojoldu@gmail.com on 30/03/2021
- * Blog : http://jojoldu.tistory.com
- * Github : http://github.com/jojoldu
- */
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
